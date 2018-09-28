@@ -1,0 +1,21 @@
+{
+  "name": "ebabel-count-array-elements",
+  "version": "1.0.0",
+  "description": "Returns an object that counts how many times each element is present in a given array.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebabel-eu/ebabel-count-array-elements.git"
+  },
+  "keywords": [
+    "games",
+    "module",
+    "javascript"
+  ],
+  "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ebabel-eu/ebabel-count-array-elements/issues"
+  },
+  "homepage": "https://github.com/ebabel-eu/ebabel-count-array-elements#readme"
+}
