@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebabel-eu/ebabel-count-array-elements.git"
+    "url": "git+https://github.com/ebabel-games/ebabel-count-array-elements.git"
   },
   "keywords": [
     "games",
@@ -26,9 +26,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ebabel-eu/ebabel-count-array-elements/issues"
+    "url": "https://github.com/ebabel-games/ebabel-count-array-elements/issues"
   },
-  "homepage": "https://github.com/ebabel-eu/ebabel-count-array-elements#readme",
+  "homepage": "https://github.com/ebabel-games/ebabel-count-array-elements#readme",
   "dependencies": {},
   "devDependencies": {
     "ajv": "^6.5.4",

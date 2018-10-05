@@ -1,5 +1,5 @@
 # ebabel-count-array-elements
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-count-array-elements.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-count-array-elements)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-count-array-elements.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-count-array-elements)
 
 Returns an object that counts how many times each element is present in a given array.
 
